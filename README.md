@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Backtracking
