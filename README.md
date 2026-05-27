@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2573-find-the-string-with-lcp](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Backtracking
 |  |
 | ------- |
