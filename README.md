@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0835-image-overlap](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
